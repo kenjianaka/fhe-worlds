@@ -1,5 +1,5 @@
 // FHEWorlds contract configuration generated from deployments/sepolia/FHEWorlds.json
-export const CONTRACT_ADDRESS = '0x0000000000000000000000000000000000000000';
+export const CONTRACT_ADDRESS = '0x31a2f0db1a770a97a8277A7109CE44Fb618Dd85E';
 
 export const CONTRACT_ABI = [
   {
